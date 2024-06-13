@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maezinha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af000ae016f0de34abeafee7d917db82b304e4b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dc211527d5d3678b261e8aa1c2df8a636aeea3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("maezinha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maezinha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
