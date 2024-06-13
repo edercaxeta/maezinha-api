@@ -1,0 +1,15 @@
+{
+    "builds": [
+      {
+        "src": "src/**/*.csproj",
+        "use": "@vercel/dotnet"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/"
+      }
+    ]
+  }
+  

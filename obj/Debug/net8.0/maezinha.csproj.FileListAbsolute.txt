@@ -222,3 +222,4 @@ C:\Users\Desenvolvedor 2\Desktop\clone\back-and\maezinha\obj\Debug\net8.0\refint
 C:\Users\Desenvolvedor 2\Desktop\clone\back-and\maezinha\obj\Debug\net8.0\maezinha.pdb
 C:\Users\Desenvolvedor 2\Desktop\clone\back-and\maezinha\obj\Debug\net8.0\maezinha.genruntimeconfig.cache
 C:\Users\Desenvolvedor 2\Desktop\clone\back-and\maezinha\obj\Debug\net8.0\ref\maezinha.dll
+C:\Users\Desenvolvedor 2\Desktop\clone\back-and\maezinha\obj\Debug\net8.0\maezinha.sourcelink.json
