@@ -1,5 +1,5 @@
 # Estágio 1: Build
-FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build-env
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
 WORKDIR /app
 
 # Copie o arquivo .csproj e restaure as dependências
@@ -11,7 +11,7 @@ COPY . ./
 RUN dotnet publish -c Release -o out
 
 # Estágio 2: Runtime
-FROM mcr.microsoft.com/dotnet/aspnet:5.0
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 COPY --from=build-env /app/out .
 
